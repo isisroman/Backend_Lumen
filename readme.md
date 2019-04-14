@@ -1,12 +1,4 @@
-# Lumen PHP Framework
-
-
-
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
-
-## Security Vulnerabilities
-
-# API Restful (BACKEND) - Servicios Web con LUMEN (Laravel)
+# Lumen (BACKEND) API Restful 
 Este proyecto esta generado con (Lumen 5.7.6) (Laravel Components 5.7.*)
 
 # Empezar desde aquí
